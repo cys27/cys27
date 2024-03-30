@@ -2,7 +2,7 @@
 
 # Helloo Homo Sapiens! I'm Enes 👽
 
-<img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/cys27/badges/micro"> 
+<img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/cys27/badges/small"> 
 - ⚡ I'm 18 years old and I have been interested in software development (etc..) since I was 11.
 - 👨‍💻 I do not working for any company or organisation. I develop whatever I want.
 - 🔭 I'm currently developing cyber security tools.
