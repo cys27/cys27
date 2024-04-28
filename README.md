@@ -4,9 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/cys27/badges/small"> 
 - ⚡ I'm 18 years old and I have been interested in software development (etc..) since I was 11.
+- 🔭 I'm currently interested in number theory and linear algebra. And I develop programs related to these.
 - 👨‍💻 I do not working for any company or organisation. I develop whatever I want.
-- 🔭 I'm currently developing cyber security tools.
-- 💬 Also ask me about Frontend and Backend techs
+- 💬 Also ask me about Frontend and Backend techs.
 
 ---
 ### You can find Languages and Tools in this account and much more!
@@ -39,4 +39,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" height="28"/>
   &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="28">
+    &nbsp;
+    <img src="https://img.icons8.com/?size=64&id=Onmn6RPrwtZQ&format=png" alt="wolfram" height="28">
 </p>
