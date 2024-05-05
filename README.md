@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/cys27/cys27/main/banners/banner.jpg)
+![MasterHead](https://raw.githubusercontent.com/cys27/cys27/main/banners/banner2.jpg)
 
 # Helloo Homo Sapiens! I'm Enes 👽
 
