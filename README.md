@@ -1,9 +1,9 @@
-![MasterHead](https://raw.githubusercontent.com/cys27/cys27/main/banners/banner2.jpg)
+![MasterHead](https://raw.githubusercontent.com/cys27/cys27/main/banners/banner.jpg)
 
 # Helloo Homo Sapiens! I'm Enes 👽
 
 <img src="https://komarev.com/ghpvc/?username=qxcys&color=red">   <img src="https://www.codewars.com/users/cys27/badges/small"> 
-- ⚡ I'm 18 years old and I have been interested in software development (etc..) since I was 11.
+- ⚡ I'm 19 years old and I have been interested in software development (etc..) since I was 11.
 - 🔭 I'm currently interested in number theory and linear algebra. And I develop programs related to these.
 - 👨‍💻 I do not working for any company or organisation. I develop whatever I want.
 - 💬 Also ask me about Frontend and Backend techs.
