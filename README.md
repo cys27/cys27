@@ -1,4 +1,4 @@
-# Hi there, I'm Enes! 👋
+# Hi there, I'm Enes!
 
 I am a 20-year-old undergraduate student at **Ankara University**, double majoring in **Physics** and **Mathematics**. I combine my scientific background with my passion for technology to solve complex problems.
 
